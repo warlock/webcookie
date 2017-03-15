@@ -1,0 +1,20 @@
+{
+  "name": "webcookie",
+  "version": "0.0.1",
+  "description": "Get and Set cookies in browser",
+  "main": "webcookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlock/webcookie.git"
+  },
+  "keywords": ["frontend","client-side", "browser", "framework", "angular", "component", "components", "framework","gui","cookie","website","login","website"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warlock/webcookie/issues"
+  },
+  "homepage": "https://github.com/warlock/webcookie#readme"
+}
