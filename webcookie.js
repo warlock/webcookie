@@ -6,11 +6,12 @@ var wc = {
     document.cookie = key + "=" + value + ";" + expires + ";path=/";
   },
   "get": function (key) {
-    var a = document.cookie.split('; ');
-    a.forEach(function (e) {
+    var value = "";
+    document.cookie.split('; ').forEach(function (e) {
       var x = e.split('=');
-      if (x[0] === key) return x[1];
+      if (x[0] === key) value = x[1];
     });
+    return value;
   }
 };
 

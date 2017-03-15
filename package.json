@@ -1,6 +1,6 @@
 {
   "name": "webcookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get and Set cookies in browser",
   "main": "webcookie.js",
   "scripts": {
