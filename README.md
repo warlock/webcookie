@@ -4,12 +4,12 @@
 https://www.npmjs.com/package/webcookie
 https://github.com/warlock/webcookie
 
-##Import module for Node.js:
+### Import module for Node.js:
 ```javascript
 var wc = require("webcookie");
 ```
 
-##Browser import:
+### Browser import:
 ```html
 <script src="webcookie/webcookie.js"></script>
 <script>
