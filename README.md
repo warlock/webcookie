@@ -18,9 +18,9 @@ wc.set('key', 'value', 2); // Expiration in 2 days
 wc.get('key') // Returns 'value'
 </script>
 ```
-```
 
 ## License
+```
 The MIT License (MIT)
 Copyright (c) 2017 Josep Subils Rigau (josep@spellbook.io)
 
