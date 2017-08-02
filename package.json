@@ -1,6 +1,6 @@
 {
   "name": "webcookie",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Get and Set cookies in browser",
   "main": "webcookie.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/warlock/webcookie.git"
   },
   "keywords": ["frontend","client-side", "browser", "framework", "angular", "component", "components", "framework","gui","cookie","website","login","website"],
-  "author": "",
+  "author": "Josep Subils <js@js.gl> (http://js.gl)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/warlock/webcookie/issues"
